@@ -3,8 +3,10 @@ title: Opening Notes
 author: Joseph Osborne
 date: '2021-05-27'
 slug: opening-notes
-categories: []
-tags: []
+categories:
+  - Informational
+tags:
+  - Prose
 ---
 
 This is a quick introductory post to explain the purpose of this site, and to provide some idea of what to expect in the (hopefully) not too distant future....
@@ -39,3 +41,4 @@ And this is where the Futurist Voters association really must lean into the name
 ## Coming Soon
 
 In the coming days and weeks, expect to see further articles, clarifying the kind of issues which we want to track, detailing the plans for how the Association will evolve, and possibly most importantly, discussing the ways that you can get involved!
+

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
-    <link>www.newfuturist.co.uk/</link>
-    <description>Recent content on A Hugo website</description>
+    <title>New Futurist - A Futurist Voters Association</title>
+    <link>/</link>
+    <description>Recent content on New Futurist - A Futurist Voters Association</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="www.newfuturist.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opening Notes</title>
-      <link>www.newfuturist.co.uk/2021/05/27/opening-notes/</link>
+      <link>/2021/05/27/opening-notes/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>www.newfuturist.co.uk/2021/05/27/opening-notes/</guid>
+      <guid>/2021/05/27/opening-notes/</guid>
       <description>This is a quick introductory post to explain the purpose of this site, and to provide some idea of what to expect in the (hopefully) not too distant future….
 Why?Why does this site exist? It exists as an attempt to introduce a greater factor of futurist thinking to our lives. It has long been a conclusion of mine, and others I’ve held conversations with, that as a quirk of both human nature and the structure of our society, we are often inappropriately consumed with the short term aspects of life and politics.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>www.newfuturist.co.uk/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>www.newfuturist.co.uk/about/</guid>
+      <guid>/about/</guid>
       <description>This is the site for the Futurist Voters Association. This is an open association of likeminded voters, who feel that short-termism is a chronic issue in our political system, and are looking for measures to counter it, and support lasting and long-sighted change.
 In its current iteration, the site is a:
  blog, which contains articles on the early founding of the association, and our plans moving forwards and dashboard, which contains a set of graphics tracking some key long term issues, which are both an example of the failings of short-termism, and our key objectives to repair with our efforts.</description>

@@ -15,4 +15,3 @@ In time we plan to include a some interactive tools, which can help visitors exp
 We also intend to include forms and mailing lists, where you can contribute information which you have good exposure too and in turn that information becomes accessible to others, contributing to the stories we are building about some worrying trends in our world, and helping us keep track of the good work being done to combat them.
 
 
-
