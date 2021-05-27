@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introductory Page</title>
-      <link>/2021/05/27/introductory-page/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/05/27/introductory-page/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-</description>
-    </item>
-    
-    <item>
       <title>Opening Notes</title>
       <link>/2021/05/27/opening-notes/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
@@ -25,16 +15,6 @@
       <guid>/2021/05/27/opening-notes/</guid>
       <description>This is a quick introductory post to explain the purpose of this site, and to provide some idea of what to expect in the (hopefully) not too distant future….
 Why?Why does this site exist? It exists as an attempt to introduce a greater factor of futurist thinking to our lives. It has long been a conclusion of mine, and others I’ve held conversations with, that as a quirk of both human nature and the structure of our society, we are often inappropriately consumed with the short term aspects of life and politics.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
@@ -46,15 +26,6 @@ Why?Why does this site exist? It exists as an attempt to introduce a greater fa
       <description>This is the site for the Futurist Voters Association. This is an open association of likeminded voters, who feel that short-termism is a chronic issue in our political system, and are looking for measures to counter it, and support lasting and long-sighted change.
 In its current iteration, the site is a:
  blog, which contains articles on the early founding of the association, and our plans moving forwards and dashboard, which contains a set of graphics tracking some key long term issues, which are both an example of the failings of short-termism, and our key objectives to repair with our efforts.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>
